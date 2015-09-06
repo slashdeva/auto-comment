@@ -10,6 +10,8 @@ I translate orignal code with my terrible English skill.
 
 Please enjoy :)
 
+![image](https://cloud.githubusercontent.com/assets/14140174/9704967/607eef7c-54f1-11e5-98ad-4648872c168c.png)
+
 ####Insatllation
 ```
 ./install.sh
